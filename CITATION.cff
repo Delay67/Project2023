@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Predicting the Phase Timings of Traffic Signals Using
+  Image Processing and Machine Learning
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ronan
+    family-names: Hochart
+    email: rhochart@gmail.com
+    affiliation: vrije universiteit amsterdam
+repository-code: 'https://github.com/Delay67/Project2023'
