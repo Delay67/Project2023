@@ -6,4 +6,4 @@ LiveStream-1-Cam-2-New-NL.csv is a sample of one of the datasets used to train t
 
 carDetector.py is a script to detect moving vehicles at an intersection
 
-dataGather.py is the data gathering script to gather car data at an intersection and create a .csv file
+dataGatherAdvanced.py is the data gathering script to gather car data at an intersection and create a .csv file
